@@ -139,8 +139,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 """创建邮件发送后端"""
 EMAIL_HOST = 'smtp.qq.com' #发送邮件的主机
-EMAIL_HOST_USER = '3351151323@qq.com'#自己的邮箱
-EMAIL_HOST_PASSWORD = 'pxggaaqbsqtecibg'#邮箱密码
+EMAIL_HOST_USER = '******@qq.com'#自己的邮箱
+EMAIL_HOST_PASSWORD = '******'#邮箱密码
 EMAIL_PORT = 587  #发送端口
 EMAIL_USE_SSL = True #使用隐式安全链接
 
